@@ -95,6 +95,6 @@ The results for Easy Ensemble AdaBoost Classifier:
 
 ## Summary
 
-To Summarize the results of the 6 models, the EasyEnsembleClassifier model had the best result with an accuracy score of 0.94 and a 9% precision rate. However, all six models were not recommended in the real world as all of them had a pronounced imbalance between sensitivity and precision.
+To summarize the results of the 6 models, the EasyEnsembleClassifier model had the best result with an accuracy score of 0.94 and a 9% precision rate. However, all six models were not recommended in the real world as all of them had a pronounced imbalance between sensitivity and precision.
 
 The unbalanced classification problem was natural in credit risk as good loans could easily outnumber risky loans. In order to combat the unbalance, we would suggest trying different algorithms. In this project, we used logistic regression to process the analysis. However, decision trees might be a good choice. Future analysis could focus on using different algorithms such as decision trees.
