@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, we utilized machine learning statistical algorithms to build and evaluate models. We intended to predict credit risk by using the credit card dataset from LendingClub, a peer-to-peer lending services company. The classes for high-risk users and low-risk users were unbalanced so we needed to employ different techniques to resample the data.
+In this project, we utilized supervised machine learning statistical algorithms to build and evaluate models. We intended to predict credit risk by using the credit card dataset from LendingClub, a peer-to-peer lending services company. The classes for high-risk users and low-risk users were unbalanced so we needed to employ different techniques to resample the data.
 The following tasks were done in this project:
 
 - Use RandomOverSampler and SMOTE algorithms to oversample the data.
